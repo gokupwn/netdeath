@@ -2,6 +2,7 @@
 ## Installation
 ```bash
 chmod +x install.sh
+./install.sh
 chmod +x run.sh
 ```
 ## Run
@@ -9,6 +10,6 @@ chmod +x run.sh
 ./run
 ```
 ## Images
-![[ NetDeath.jpg ]]
+![NetDeath](/NetDeath.jpg)
 ## Features
 Stay tunned new attacks will be added :)

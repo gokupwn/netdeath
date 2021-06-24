@@ -28,10 +28,10 @@ def arper():
         print(red("[-] Are You Okay?!, Set Your Targets [-]"))
 
 def spoofer():
-    #try:
-    os.system(f"terminator -e 'python3 spoofer.py {DOIPJ}' &")
-    #except:
-        #print(red("[-] Shshh Add Domains setDomains [-]"))
+    try:
+	os.system(f"terminator -e 'python3 spoofer.py {DOIPJ}' &")
+    except:
+        print(red("[-] Shshh Add Domains setDomains [-]"))
 
 def setTargets():
     try:

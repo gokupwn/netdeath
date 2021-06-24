@@ -9,6 +9,6 @@ chmod +x run.sh
 ./run
 ```
 ## Images
-![[NetDeath.jpg]]
+![[ NetDeath.jpg ]]
 ## Features
 Stay tunned new attacks will be added :)

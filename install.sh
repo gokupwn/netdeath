@@ -25,6 +25,7 @@ fi
 
 clear
 python3 -m venv network
+apt-get install terminator
 source network/bin/activate
 pip3 install scapy
 pip3 install terminaltables

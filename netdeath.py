@@ -29,7 +29,7 @@ def arper():
 
 def spoofer():
     try:
-	os.system(f"terminator -e 'python3 spoofer.py {DOIPJ}' &")
+        os.system(f"terminator -e 'python3 spoofer.py {DOIPJ}' &")
     except:
         print(red("[-] Shshh Add Domains setDomains [-]"))
 

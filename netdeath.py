@@ -102,4 +102,3 @@ def interactive_shell():
         print(red("[~] You Are Sick, Use exit :) [~]"))
 
 interactive_shell()
-

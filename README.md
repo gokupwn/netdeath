@@ -15,6 +15,7 @@ chmod +x run.sh
 ./run
 ```
 ## Images
+![NetDeath](/GUI.png)
 ![NetDeath](/NetDeath.jpg)
 ## Features
 Stay tunned new attacks will be added :)

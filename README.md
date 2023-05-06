@@ -15,7 +15,27 @@ chmod +x run.sh
 ./run
 ```
 ## Images
+- Banner:
+
+![banner](/netdeath.png)
+
+- Scan:
+
+![scan](/scan.png)
+
+- Set Targets:
+
+![targets](/setdomains.png)
+
+- Arp Spoofing:
+
+![arpspoofing](/arper.png)
+
+
+- Netdeath GUI (Under DEV):
+
 ![NetDeath](/GUI.png)
-![NetDeath](/NetDeath.jpg)
+
+
 ## Features
 Stay tunned new attacks will be added :)
